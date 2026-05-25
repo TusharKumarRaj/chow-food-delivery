@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Chow",
+    "slug": "chow-food-delivery",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/chow.png",
+    "scheme": "chowfooddelivery",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/chow_splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFFFFF"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/chow.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "plugins": [
+      [
+        "expo-splash-screen",
+        {
+          "backgroundColor": "#FFFFFF",
+          "image": "./assets/chow_splash.png",
+          "imageWidth": 200
+        }
+      ]
+    ]
+  }
+}

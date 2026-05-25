@@ -1,0 +1,15 @@
+export const colors = {
+  primary: '#E85D04',
+  swiggyOrange: '#FF5200',
+  instamart: '#E23744',
+  bannerPurple: '#5D1F8E',
+  header: '#1A1A2E',
+  background: '#F5F5F5',
+  card: '#FFFFFF',
+  text: '#1A1A2E',
+  textMuted: '#6B7280',
+  border: '#E5E7EB',
+  white: '#FFFFFF',
+  danger: '#DC2626',
+  overlay: 'rgba(0,0,0,0.45)',
+};
